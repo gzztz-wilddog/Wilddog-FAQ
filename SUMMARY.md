@@ -23,7 +23,8 @@
 * [有哪些付费方式？](财务/pay.md)
 * [费用结算周期是多久？](财务/period.md)
 * [如何为账户充值？](财务/recharge.md)
-* [套餐里的资源是每月重新计算吗？](财务/tao-can-li-de-zi-yuan-shi-mei-yue-zhong-xin-ji-suan-ma-ff1f.md)
+* [套餐里的资源是每月重新计算吗？](财务/restart.md)
+* [实时数据同步套餐可以升降级吗？](财务/upordowngrade.md)
 
 ## 其他
 
