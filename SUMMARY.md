@@ -22,7 +22,8 @@
 * [不缴纳套餐费的话，App 会怎么样？](财务/pause.md)
 * [有哪些付费方式？](财务/pay.md)
 * [费用结算周期是多久？](财务/period.md)
-  * [如何为账户充值？](财务/recharge.md)
+* [如何为账户充值？](财务/recharge.md)
+* [套餐里的资源是每月重新计算吗？](财务/tao-can-li-de-zi-yuan-shi-mei-yue-zhong-xin-ji-suan-ma-ff1f.md)
 
 ## 其他
 
