@@ -6,6 +6,8 @@
 
 ## Sync
 
+* [angular](Sync/Angular.md)
+
 ## SMS
 
 ## Video
